@@ -1,0 +1,19 @@
+body{
+    background-color:  #ffe8bc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh
+}
+
+.btn{
+    background-color:  #fcd791;
+    border: none;
+    color: #5d1b1a;
+    padding: 15px 40px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+}
